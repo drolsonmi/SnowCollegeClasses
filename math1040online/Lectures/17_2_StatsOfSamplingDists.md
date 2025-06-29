@@ -53,7 +53,7 @@ Now, instead of looking at just one student, you're going to sample 30 students.
 
 $$\mu_{\bar{x}} = \mu = 45 \qquad \sigma_{\bar{x}} = \frac{\sigma}{\sqrt{n}} = \frac{12}{\sqrt{30}} = \frac{12}{5.477} = 2.191$$
 
-![Normal Distribution of sample](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/images/Fig17_2c_Example_SamplingNormal.png?raw=true)
+![w:200 Normal Distribution of sample](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/images/Fig17_2c_Example_SamplingNormal.png?raw=true)
 
 $$z = \frac{42-45}{2.191} = \frac{-3}{2.191} = -1.369$$
 $$P(t \le 42) = P(z \le -1.369) = 0.085 = \mathbf{8.5\%}$$
