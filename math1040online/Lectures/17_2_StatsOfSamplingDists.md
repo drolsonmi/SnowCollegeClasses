@@ -1,6 +1,7 @@
 # 17.2 Statistics of Sampling Distributions
 
 ## Reading
+* 4.2.1 The mean and standard deviation of $\bar{x}$ (pages 155-159 of our [textbook](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Resources/1040%20Introductory%20Statistics%20Textbook%20-%20OpenIntro%20-%20REV%206-13-19.pdf))
 
 ## Lesson
 In lesson 17.1, we saw that if we take a large enough samples to from a sampling distribution, we form a normal distribution.
