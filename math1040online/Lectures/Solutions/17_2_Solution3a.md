@@ -1,4 +1,6 @@
 #### Answer to Practice Problem 3
+A coffee shop claims that the average temperature of its freshly brewed coffee is 160°F with a standard deviation of 5°F. A health inspector randomly samples 41 cups of coffee.
+
 1. What is the probability that the temperature of a single cup is between 158°F and 162°F?
     * The probability is found by finding the area between the two values on a standardized normal distribution using a Z-Table or a calculator
         * On a Z-Table,
@@ -14,3 +16,5 @@
             * 2:normalcdf(158,162,160,5) if using the values from the problem
             * 2:normalcdf(0.3446,0.6554,0,1) if using the z-score (gives the same answer)
     * __Probability = 0.311 = 31.1\%__
+
+[Click here](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Lectures/17_2_StatsOfSamplingDists.md) to return to the lecture notes.

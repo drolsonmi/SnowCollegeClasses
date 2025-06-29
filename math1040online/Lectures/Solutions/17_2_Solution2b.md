@@ -1,4 +1,6 @@
 #### Answer to Practice Problem 2
+A factory produces light bulbs with a mean lifetime of 1,200 hours and a standard deviation of 100 hours. A quality control engineer selects a random sample of 36 bulbs.
+
 2. What is the probability that the sample mean lifetime of the 36 bulbs is greater than 1,225 hours?
     * The mean and standard deviation are:
         * $\mu_{\bar{x}}$ = $\mu$ = 1200
@@ -14,3 +16,5 @@
             * 2:normalcdf(1225,99999,1200,16.667) if using the values from the problem
             * 2:normalcdf(1.5,9999,0,1) if using the z-score (gives the same answer)
     * __Probability = 0.067 = 6.7\%__
+
+[Click here](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Lectures/17_2_StatsOfSamplingDists.md) to return to the lecture notes.

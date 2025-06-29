@@ -1,4 +1,6 @@
 #### Answer to Practice Problem 3
+A coffee shop claims that the average temperature of its freshly brewed coffee is 160°F with a standard deviation of 5°F. A health inspector randomly samples 41 cups of coffee.
+
 2. What is the probability that the sample mean temperature is between 158°F and 162°F?
     * The mean and standard deviation are:
         * $\mu_{\bar{x}}$ = $\mu$ = 160
@@ -17,3 +19,5 @@
             * 2:normalcdf(158,162,160,0.7809) if using the values from the problem
             * 2:normalcdf(-2.5612,2.5612,0,1) if using the z-score (gives the same answer)
         * __Probability = 0.9896 = 98.96\%__
+
+[Click here](https://github.com/drolsonmi/SnowCollegeClasses/blob/main/math1040online/Lectures/17_2_StatsOfSamplingDists.md) to return to the lecture notes.
